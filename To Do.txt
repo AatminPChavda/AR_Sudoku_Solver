@@ -1,6 +1,0 @@
-
-Do all processes only when you recognise sudoku
-
-grid lines
-
-improve processing for extracting digit
