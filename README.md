@@ -41,4 +41,4 @@ __Approach1 :__ Include empty spaces(noisy and preprocessed both) in your datase
 
 __Approach2 :__ Detection of countour in cropped image of each digits before feeding into the model. If contour is smaller than a given threshold then it is considered as empty space.
 
-__Approach3 :__ Use the on-hot-encoding advantage in the CNN model.If the confidence in the final array is smaller than a given threshold then take it as empty space.
+__Approach3 :__ Use the one-hot-encoding advantage in the CNN model.If the confidence in the final array is smaller than a given threshold then take it as empty space.
